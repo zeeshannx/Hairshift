@@ -1,0 +1,5 @@
+{
+  "name": "HairShift AI",
+  "description": "An AI-powered hairstyle makeover and image editing tool using the Nano Banana model.",
+  "requestFramePermissions": []
+}
